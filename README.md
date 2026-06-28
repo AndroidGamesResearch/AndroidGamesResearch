@@ -4,7 +4,7 @@
 
 AndroidGamesResearch is dedicated to developing and sharing open datasets, research software, and analytical resources for AI for Games, computational game analytics, and empirical software engineering.
 
-Our repositories support reproducible research by providing datasets, source code, and research artifacts developed through published work and ongoing research projects.
+This repository supports reproducible research by providing datasets, source code, and research artifacts developed through published work and ongoing research projects.
 
 ---
 
