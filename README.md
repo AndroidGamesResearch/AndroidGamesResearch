@@ -50,13 +50,6 @@ Research resources for studying relationships between Android application featur
 
 ---
 
-### 📚 Visual Ethics for UI/UX in Android Game Apps
-
-Research exploring visual ethics and user interface design in Android game applications.
-
-* 📄 **Paper:** *(Add publication link if available)*
-* 💻 **Repository:** https://github.com/AndroidGamesResearch/Visual-Ethics-for-UI-UX-in-Android-Game-Apps
-
 
 ## Ongoing Research
 
